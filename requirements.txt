@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain_openai
+openai
+tiktoken
+mlflow
+faiss-cpu
+python-dotenv
+dagshub

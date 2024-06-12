@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Upforce/Practice/mlflow/mlruns/374592325427592297/80ff0ddd1f7c4c68ab8b626a2b703860/artifacts
+end_time: 1718185526899
+entry_point_name: ''
+experiment_id: '374592325427592297'
+lifecycle_stage: active
+run_id: 80ff0ddd1f7c4c68ab8b626a2b703860
+run_name: abundant-roo-748
+run_uuid: 80ff0ddd1f7c4c68ab8b626a2b703860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718185436154
+status: 3
+tags: []
+user_id: Upforce

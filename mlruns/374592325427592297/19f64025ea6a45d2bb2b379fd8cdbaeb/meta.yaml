@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Upforce/Practice/mlflow/mlruns/374592325427592297/19f64025ea6a45d2bb2b379fd8cdbaeb/artifacts
+end_time: 1718185417472
+entry_point_name: ''
+experiment_id: '374592325427592297'
+lifecycle_stage: active
+run_id: 19f64025ea6a45d2bb2b379fd8cdbaeb
+run_name: welcoming-turtle-982
+run_uuid: 19f64025ea6a45d2bb2b379fd8cdbaeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718185395661
+status: 3
+tags: []
+user_id: Upforce
