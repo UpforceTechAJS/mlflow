@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 dagshub.init(repo_owner='akshay.satasiya', repo_name='mlflow1', mlflow=True)
-mlflow.set_tracking_uri("https://github.com/UpforceTechAJS/mlflow.git")
+mlflow.set_tracking_uri("https://dagshub.com/akshay.satasiya/mlflow1.mlflow")
 
 
 eval_data = pd.DataFrame(
@@ -25,7 +25,7 @@ eval_data = pd.DataFrame(
     }
 )
 
-mlflow.set_experiment("LLM_Evaluation")
+mlflow.set_experiment("LLM Evaluation")
 with mlflow.start_run() as run:
     system_prompt = "Answer the following question in two sentences"
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Upforce/Practice/mlflow/mlruns/937399481707802203/cc4e47b5c0f3460498e00f8e201c178f/artifacts
+end_time: 1718188593117
+entry_point_name: ''
+experiment_id: '937399481707802203'
+lifecycle_stage: active
+run_id: cc4e47b5c0f3460498e00f8e201c178f
+run_name: thundering-hare-643
+run_uuid: cc4e47b5c0f3460498e00f8e201c178f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718188586780
+status: 3
+tags: []
+user_id: akshay.satasiya

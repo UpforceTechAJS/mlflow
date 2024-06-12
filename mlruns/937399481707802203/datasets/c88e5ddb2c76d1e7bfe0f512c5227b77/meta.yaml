@@ -1,0 +1,8 @@
+digest: 03b9cc71
+name: dataset
+profile: '{"num_rows": 2, "num_elements": 4}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "inputs", "required": true},
+  {"type": "string", "name": "ground_truth", "required": true}]}'
+source: '{"tags": {"mlflow.user": "akshay.satasiya", "mlflow.source.name": "test.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "73708856d2547a9ab16c1e81c3ecfaeee2cabe16"}}'
+source_type: code

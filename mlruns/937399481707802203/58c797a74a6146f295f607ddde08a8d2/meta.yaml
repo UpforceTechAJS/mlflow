@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Upforce/Practice/mlflow/mlruns/937399481707802203/58c797a74a6146f295f607ddde08a8d2/artifacts
+end_time: 1718188609704
+entry_point_name: ''
+experiment_id: '937399481707802203'
+lifecycle_stage: active
+run_id: 58c797a74a6146f295f607ddde08a8d2
+run_name: skillful-lark-39
+run_uuid: 58c797a74a6146f295f607ddde08a8d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718188595377
+status: 3
+tags: []
+user_id: akshay.satasiya

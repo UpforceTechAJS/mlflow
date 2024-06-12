@@ -1,0 +1,7 @@
+messages:
+- content: Answer the following question in two sentences
+  role: system
+- content: '{question}'
+  role: user
+model: gpt-3.5-turbo-0125
+task: chat.completions
