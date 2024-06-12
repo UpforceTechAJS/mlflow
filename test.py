@@ -7,8 +7,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-dagshub.init("my-first-repo", "akshay.satasiya", mlflow=True)
-mlflow.set_tracking_uri("https://dagshub.com/krishnaik06/MLfLow.mlflow")
+dagshub.init(repo_owner='akshay.satasiya', repo_name='mlflow1', mlflow=True)
+mlflow.set_tracking_uri("https://github.com/UpforceTechAJS/mlflow.git")
 
 
 eval_data = pd.DataFrame(
